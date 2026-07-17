@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNonaRv&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MrNonaRv&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNonaRv&theme=radical&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrNonaRv&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&theme=radical&hide_border=false" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&theme=radical" alt="GitHub Streak" width="49%" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker" width="49%" />
 </div>
 
