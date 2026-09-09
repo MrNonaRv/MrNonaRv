@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=26&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Initializing+J.A.R.V.I.S.+Protocol...;Welcome+back,+Sir.;Senior+Software+Engineer.&color=00FFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=26&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Initializing+J.A.R.V.I.S.+Protocol...;I'm+Mr.+Kichi;Senior+Software+Engineer;System+Architect&color=00FFFF" />
 </h1>
 
 <div align="center">
@@ -88,6 +88,6 @@
 
 <div align="center">
   <a href="https://github.com/MrNonaRv">
-    <img src="https://komarev.com/ghpvc/?username=MrNonaRv&label=SYSTEM%20PINGS&color=00FFFF&style=for-the-badge" alt="Profile views" />
+    <img src="https://count.getloli.com/get/@MrNonaRv?theme=asoul" alt="Profile views" />
   </a>
 </div>
