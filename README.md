@@ -43,10 +43,10 @@
 
 <br/>
 
-## 📈 GitHub Activity
+## 📈 GitHub Summary
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNonaRv&bg_color=0d1117&color=F71185&line=F71185&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=1" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=radical" alt="Profile Summary" width="100%" />
 </div>
 
 <br/>
