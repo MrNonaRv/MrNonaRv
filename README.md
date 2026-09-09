@@ -1,85 +1,85 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Link+Start!;I'm+Mr.+Kichi;Level+99+Developer!&color=00FFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Share+Tech+Mono&size=26&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Initializing+J.A.R.V.I.S.+Protocol...;Welcome+back,+Sir.;Senior+Software+Engineer.&color=00FFFF" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/10yXFkBJ0MwGQ0/giphy.gif" width="400" alt="SAO Kirito" />
+  <img src="https://media.giphy.com/media/nQjebgK31Q8Rq/giphy.gif" width="400" alt="JARVIS HUD" />
 </div>
 
-<h3 align="center">Clearing the 100th floor, one line of code at a time. 🗡️</h3>
+<h3 align="center">Senior Software Engineer | System Architect | Automating the future.</h3>
 
 <br/>
 
 <div align="center">
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0A0E17?style=for-the-badge&logo=gmail&logoColor=00FFFF&borderColor=00FFFF" alt="Email" />
   </a>
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-0A0E17?style=for-the-badge&logo=globe&logoColor=00FFFF&borderColor=00FFFF" alt="Portfolio" />
   </a>
   <a href="https://twitter.com/yourusername">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter-0A0E17?style=for-the-badge&logo=twitter&logoColor=00FFFF&borderColor=00FFFF" alt="Twitter" />
   </a>
   <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A0E17?style=for-the-badge&logo=linkedin&logoColor=00FFFF&borderColor=00FFFF" alt="LinkedIn" />
   </a>
 </div>
 
 <br/>
 
-## ⚔️ Player Stats
+## 🌐 System Diagnostics
 
-- 🔭 Currently on a quest in **exciting projects**
-- 🌱 Leveling up my skills in **new technologies and frameworks**
-- 👯 Looking to form a party for **Open Source projects**
-- 💬 Ask me about **Web Development, Tech, and VRMMOs**
-- ⚡ Fun fact: **I am a Beater! (Beta-tester & Cheater) 🕹️**
+- 🔭 Currently engineering scalable solutions in **enterprise architectures**
+- 🌱 Upgrading neural network parameters in **distributed systems & cloud tech**
+- 👯 Collaborating on **Stark Industries-level open-source protocols**
+- 💬 Ask me about **System Architecture, DevOps, and Backend Engineering**
+- ⚡ Fun fact: **I run on coffee and Arc Reactor technology. 🔋**
 
 <br/>
 
-## 🛡️ Equipment / Tech Stack
+## ⚙️ Core Hardware & Frameworks
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,cpp,c,php,mysql,postgres,mongodb,docker,aws,git,github,linux,ubuntu,vscode,figma&perline=12" />
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,java,cpp,c,go,rust,mysql,postgres,mongodb,docker,aws,kubernetes,git,github,linux,ubuntu,vim,vscode&perline=11" />
   </a>
 </div>
 
 <br/>
 
-## 🕹️ System Data
+## 📡 Mainframe Uplink
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=dark" alt="Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=radical" alt="Profile Summary" width="100%" />
 </div>
 
 <br/>
 
-## 📊 Combat Stats
+## 📈 Server Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrNonaRv&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&layout=compact&v=1" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrNonaRv&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&v=1" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrNonaRv&bg_color=0A0E17&title_color=00FFFF&text_color=8A99A8&icon_color=00C2FF&border_color=00FFFF&layout=compact&v=1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrNonaRv&show_icons=true&bg_color=0A0E17&title_color=00FFFF&text_color=8A99A8&icon_color=00C2FF&border_color=00FFFF&v=1" alt="GitHub Stats" width="49%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FFFF&v=1" alt="GitHub Streak" width="49%" />
-  <img src="https://media.tenor.com/bY3rD3sN1x8AAAAC/sword-art-online-sao.gif" alt="SAO Combat" width="49%" height="195" style="object-fit: cover;" />
-</div>
-
-<br/>
-
-## ⚔️ Quest Log & Contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrNonaRv&theme=dark" alt="Productive Time" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=dark" alt="Profile Details" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&background=0A0E17&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=8A99A8&stroke=00FFFF&border=00FFFF&v=1" alt="GitHub Streak" width="49%" />
+  <img src="https://media.tenor.com/pZqN-Ew1l8AAAAAC/iron-man-arc-reactor.gif" alt="Arc Reactor" width="49%" height="195" style="object-fit: cover; border-radius: 4px;" />
 </div>
 
 <br/>
 
+## 📂 Classified Protocols
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNonaRv&theme=dark" alt="Stats Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrNonaRv&theme=radical" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=radical" alt="Profile Details" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNonaRv&theme=radical" alt="Stats Summary" width="100%" />
 </div>
 
 <br/>
@@ -88,6 +88,6 @@
 
 <div align="center">
   <a href="https://github.com/MrNonaRv">
-    <img src="https://count.getloli.com/get/@MrNonaRv?theme=asoul" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MrNonaRv&label=SYSTEM%20PINGS&color=00FFFF&style=for-the-badge" alt="Profile views" />
   </a>
 </div>
