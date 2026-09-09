@@ -46,7 +46,7 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNonaRv&bg_color=0d1117&color=F71185&line=F71185&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNonaRv&bg_color=0d1117&color=F71185&line=F71185&point=FFFFFF&area=true&hide_border=true&hide_title=true&v=1" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNonaRv&theme=radical&layout=compact" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MrNonaRv&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrNonaRv&theme=radical&layout=compact&v=1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrNonaRv&show_icons=true&theme=radical&v=1" alt="GitHub Stats" width="49%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&theme=radical&v=1" alt="GitHub Streak" width="49%" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker" width="49%" />
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MrNonaRv&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MrNonaRv&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1" alt="Trophies" />
   </a>
 </div>
 
