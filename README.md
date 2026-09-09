@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Link+Start!+⚔️;I'm+Mr.+Kichi;Level+99+Developer!+🛡️&color=00FFFF" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Link+Start!;I'm+Mr.+Kichi;Level+99+Developer!&color=00FFFF" />
 </h1>
 
 <div align="center">
-  <img src="https://media.tenor.com/Fw5uE2tX1SgAAAAC/kirito-sword-art-online.gif" width="400" alt="SAO Link Start" />
+  <img src="https://media.giphy.com/media/10yXFkBJ0MwGQ0/giphy.gif" width="400" alt="SAO Kirito" />
 </div>
 
 <h3 align="center">Clearing the 100th floor, one line of code at a time. 🗡️</h3>
@@ -88,6 +88,6 @@
 
 <div align="center">
   <a href="https://github.com/MrNonaRv">
-    <img src="https://komarev.com/ghpvc/?username=MrNonaRv&label=PLAYER%20VIEWS&color=00FFFF&style=for-the-badge" alt="Profile views" />
+    <img src="https://count.getloli.com/get/@MrNonaRv?theme=asoul" alt="Profile views" />
   </a>
 </div>
