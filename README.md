@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Konnichiwa!+%F0%9F%8C%B8;I'm+Mr.+Kichi;A+Passionate+Developer!+%E2%9C%A8&color=7aa2f7" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Link+Start!+⚔️;I'm+Mr.+Kichi;Level+99+Developer!+🛡️&color=00FFFF" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" alt="Anime Coding" />
+  <img src="https://media.tenor.com/Fw5uE2tX1SgAAAAC/kirito-sword-art-online.gif" width="400" alt="SAO Link Start" />
 </div>
 
-<h3 align="center">A passionate developer crafting code and building things.</h3>
+<h3 align="center">Clearing the 100th floor, one line of code at a time. 🗡️</h3>
 
 <br/>
 
@@ -27,17 +27,17 @@
 
 <br/>
 
-## 🌸 About Me
+## ⚔️ Player Stats
 
-- 🔭 I’m currently working on **exciting projects**
-- 🌱 I’m currently learning **new technologies and frameworks**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Web Development, Tech, and Anime**
-- ⚡ Fun fact: **I love coffee, coding, and watching anime! 🎌**
+- 🔭 Currently on a quest in **exciting projects**
+- 🌱 Leveling up my skills in **new technologies and frameworks**
+- 👯 Looking to form a party for **Open Source projects**
+- 💬 Ask me about **Web Development, Tech, and VRMMOs**
+- ⚡ Fun fact: **I am a Beater! (Beta-tester & Cheater) 🕹️**
 
 <br/>
 
-## 🪄 Tech Stack
+## 🛡️ Equipment / Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -47,39 +47,39 @@
 
 <br/>
 
-## 🎌 GitHub Summary
+## 🕹️ System Data
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=tokyonight" alt="Profile Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=dark" alt="Profile Summary" width="100%" />
 </div>
 
 <br/>
 
-## 📈 GitHub Stats
+## 📊 Combat Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrNonaRv&theme=tokyonight&layout=compact&v=1" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrNonaRv&show_icons=true&theme=tokyonight&v=1" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrNonaRv&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&layout=compact&v=1" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=MrNonaRv&show_icons=true&bg_color=0D1117&title_color=00FFFF&text_color=FFFFFF&icon_color=00FFFF&border_color=00FFFF&v=1" alt="GitHub Stats" width="49%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&theme=tokyonight&v=1" alt="GitHub Streak" width="49%" />
-  <img src="https://media1.tenor.com/m/ptXF9zJ7tUoAAAAC/anime-girl-coding.gif" alt="Anime Hacker" width="49%" height="195" style="object-fit: cover;" />
-</div>
-
-<br/>
-
-## 🏆 GitHub Metrics & Contributions
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrNonaRv&theme=tokyonight" alt="Productive Time" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&background=0D1117&ring=00FFFF&fire=00FFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&stroke=00FFFF&v=1" alt="GitHub Streak" width="49%" />
+  <img src="https://media.tenor.com/bY3rD3sN1x8AAAAC/sword-art-online-sao.gif" alt="SAO Combat" width="49%" height="195" style="object-fit: cover;" />
 </div>
 
 <br/>
 
+## ⚔️ Quest Log & Contributions
+
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNonaRv&theme=tokyonight" alt="Stats Summary" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrNonaRv&theme=dark" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=dark" alt="Profile Details" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNonaRv&theme=dark" alt="Stats Summary" width="100%" />
 </div>
 
 <br/>
@@ -88,6 +88,6 @@
 
 <div align="center">
   <a href="https://github.com/MrNonaRv">
-    <img src="https://count.getloli.com/get/@MrNonaRv?theme=asoul" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MrNonaRv&label=PLAYER%20VIEWS&color=00FFFF&style=for-the-badge" alt="Profile views" />
   </a>
 </div>
