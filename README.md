@@ -65,12 +65,17 @@
 
 <br/>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Metrics & Contributions
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MrNonaRv&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true&v=1" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MrNonaRv&theme=radical" alt="Productive Time" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MrNonaRv&theme=radical" alt="Profile Details" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrNonaRv&theme=radical" alt="Stats Summary" width="100%" />
 </div>
 
 <br/>
