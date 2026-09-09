@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&amp;size=35&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=70&amp;duration=4000&amp;lines=Hi+There!+%F0%9F%91%8B;I'm+Mr.+Kichi;A+Passionate+Developer!&amp;color=F71185" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;I'm+Mr.+Kichi;A+Passionate+Developer!&color=F71185" />
 </h1>
 
 <h3 align="center">A passionate developer crafting code and building things.</h3>
@@ -46,7 +46,7 @@
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNonaRv&amp;bg_color=0d1117&amp;color=F71185&amp;line=F71185&amp;point=FFFFFF&amp;area=true&amp;hide_border=true&amp;hide_title=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrNonaRv&bg_color=0d1117&color=F71185&line=F71185&point=FFFFFF&area=true&hide_border=true&hide_title=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
@@ -54,12 +54,12 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNonaRv&amp;theme=radical&amp;layout=compact" alt="Top Languages" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=MrNonaRv&amp;show_icons=true&amp;theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNonaRv&theme=radical&layout=compact" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrNonaRv&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&amp;theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrNonaRv&theme=radical" alt="GitHub Streak" width="49%" />
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Hacker" width="49%" />
 </div>
 
@@ -69,7 +69,7 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MrNonaRv&amp;theme=radical&amp;column=7&amp;margin-w=15&amp;margin-h=15&amp;no-frame=true&amp;no-bg=true" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=MrNonaRv&theme=radical&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
 </div>
 
@@ -79,6 +79,6 @@
 
 <div align="center">
   <a href="https://github.com/MrNonaRv">
-    <img src="https://komarev.com/ghpvc/?username=MrNonaRv&amp;label=Profile%20views&amp;color=F71185&amp;style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MrNonaRv&label=Profile%20views&color=F71185&style=flat" alt="Profile views" />
   </a>
 </div>
